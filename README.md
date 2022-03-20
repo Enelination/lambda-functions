@@ -1,4 +1,10 @@
-# lambda-functions
+# Project Summary <br>
+<p>In this workshop you will create a CRUD API that Creates, Reads, Updates and Deletes items from a DynamoDB table. The API will run serverless, so there is no management of the underlying infrastructure and scaling is done automatically.</p>
+
+![Architectural Diagram!](/assets/images/san-juan-mountains.jpg "Architectural Diagram!")
+
+
+
 ## INVOKE_URL=https://6xnkmpnrad.execute-api.us-east-1.amazonaws.com/
 
 **Sample Code to create an item**<br>

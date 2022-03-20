@@ -1,6 +1,7 @@
 # Project Summary <br>
 
 <p>In this workshop you will create a CRUD API that Creates, Reads, Updates and Deletes items from a DynamoDB table. The API will run serverless, so there is no management of the underlying infrastructure and scaling is done automatically.</p>
+**NB:** You can use AWS Cloud9 IDE to test the API!
 
 ![Architectural Diagram!](assets/images/ddb-crud.png "Architectural Diagram!")
 
